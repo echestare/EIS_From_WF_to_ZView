@@ -15,4 +15,6 @@ int main()
 
     getch();
     return 0;
+
+//este comentario lo hago sólo porque estoy probando la plataforma Git. Parece bastante interesnta.
 }
