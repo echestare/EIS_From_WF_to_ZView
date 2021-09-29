@@ -1,5 +1,6 @@
-# EIS_From_WF_to_ZView
+# EIS_From_WF_to_ZView      Windows version.
 Language c++
+IDE: QT Creator 4.10
 
 This is my first try in github. This little program was made to transform format files data from EIS experiences from DAD2+WaveForm3.12 to be processed in Zview.
 
